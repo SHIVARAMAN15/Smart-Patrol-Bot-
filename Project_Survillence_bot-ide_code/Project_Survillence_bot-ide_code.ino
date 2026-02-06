@@ -10,11 +10,11 @@ const char* ssid = "vivo Y03";
 const char* password = "12345678";
 
 // Telegram bot details
-String telegramBotToken = "7649580673:AAHlmghS8suuXtAQJxemo_8VBz3t0I1jC8o";
-String chatID = "1111378708";
+String telegramBotToken = "76673:AAHlmghS8suuXtAQJxemo_8VBz3t0I1jC8o";
+String chatID = "11708";
 
 // Flask server endpoint
-const char* serverUrl = "http://192.168.176.135:5000/upload";
+const char* serverUrl = "http://192.176.135:5000/upload";
 
 // PIR motion pin
 #define PIR_PIN 13
